@@ -23,7 +23,7 @@ object Assignment_1{
     def main(args: Array[String]):Unit={
         println("1) 35C to Fahrenheit : " + convert_to_fahrenheit(35));
         println("2) r=5 sphere volume : " + sphere_volume(5));
-        println("3) copy = 60, Total whilesale cost : Rs." + total_cost(60));
+        println("3) copy = 60, Total wholesale cost : Rs." + total_cost(60));
     }
     
 }
